@@ -11,7 +11,7 @@ This was a simple PHP project to become used to writing PHP code. Users can ente
 Follow the below instructions to setup the application:
 * Clone this repository.
 * Navigate in the terminal to the root directory.
-* In the terminal, run `php -S localhost:8000`.
+* In the web folder, run `php -S localhost:8000` from the terminal.
 * Navigate in a browser to `localhost:8000/parcels.php`.
 
 ##Support and Contact
